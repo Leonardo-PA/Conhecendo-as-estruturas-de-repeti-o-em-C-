@@ -1,0 +1,14 @@
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\bin\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.exe
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\bin\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.deps.json
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\bin\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.runtimeconfig.json
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\bin\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.dll
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\bin\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.pdb
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\obj\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\obj\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\obj\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.AssemblyInfo.cs
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\obj\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\obj\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.dll
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\obj\Debug\net8.0\refint\ConhecendoEstruturasdeRepitiçãoemC#.dll
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\obj\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.pdb
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\obj\Debug\net8.0\ConhecendoEstruturasdeRepitiçãoemC#.genruntimeconfig.cache
+C:\Users\leopd\Desktop\ConhecendoEstruturasdeRepitiçãoemC#\obj\Debug\net8.0\ref\ConhecendoEstruturasdeRepitiçãoemC#.dll
